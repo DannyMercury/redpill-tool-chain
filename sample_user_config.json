@@ -10,9 +10,10 @@
     "mac4": "001132136767" 
   },
   "synoinfo": {
-    "maxdisks" : "36", 
+    "maxdisks" : "32", 
     "internalportcfg" : "0xFFFFFFFF", 
     "esataportcfg" : "0x0"
   },
-  "ramdisk_copy": {}
+  "ramdisk_copy": {}, 
+  "extensions": []
 }
