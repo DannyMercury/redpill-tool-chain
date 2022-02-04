@@ -6,11 +6,9 @@
     "mac1": "001132123456"
   },
   "synoinfo": {
-    "maxdisks" : "36", 
-    "internalportcfg" : "0xffffffff", 
-    "esataportcfg" : "0x0" 
+    "supportsystemperature": "no",
+    "supportsystempwarning": "no"
   },
   "ramdisk_copy": {}, 
     "extensions": []
-  
 }
