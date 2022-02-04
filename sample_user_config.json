@@ -11,7 +11,7 @@
   },
   "synoinfo": {
     "maxdisks" : "32", 
-    "internalportcfg" : "0xFFFFFFFF", 
+    "internalportcfg" : "0xFFFFF", 
     "esataportcfg" : "0x0"
   },
   "ramdisk_copy": {}, 
