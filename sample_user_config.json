@@ -3,15 +3,12 @@
     "vid": "0x46f4",
     "pid": "0x0001",
     "sn": "1130LWN123456",
-    "netif_num":"4", 
-    "mac1": "001132133456", 
-    "mac2": "001132133466",
-    "mac3": "001132133666",
-    "mac4": "001132136767" 
+    "mac1": "001132123456"
   },
   "synoinfo": {
-    "maxdisks" : "32"
+    "maxdisks" : "32", 
+    "internalportcfg" : "0xffffffff", 
+    "esataportcfg" : "0x0" 
   },
-  "ramdisk_copy": {}, 
-  "extensions": []
+  "ramdisk_copy": {}
 }
